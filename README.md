@@ -11,9 +11,10 @@ Jejak Rasa adalah aplikasi mobile yang dirancang untuk membantu pengguna menjela
 ## 📥 Cara Mencoba Aplikasi
 Kamu bisa langsung mengunduh file aplikasinya tanpa harus menjalankan kode:
 1. Pergi ke bagian [Releases](https://github.com/ReiAja/appjejakrasa/releases).
-2. Download file **app-debug.apk**.
+2. Download file **jejakrasa.apk**.
 3. Install di perangkat Android kamu.
 
 ## 🛠️ Dibuat Dengan
 * **Framework:** [Flutter](https://flutter.dev)
 * **Language:** [Dart](https://dart.dev)
+
