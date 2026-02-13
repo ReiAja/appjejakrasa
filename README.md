@@ -1,16 +1,19 @@
-# jejakrasa
+# Jejak Rasa AppZ 🍲
+**Aplikasi Katalog Resep Makanan Nusantara**
 
-A new Flutter project.
+Jejak Rasa adalah aplikasi mobile yang dirancang untuk membantu pengguna menjelajahi berbagai resep masakan khas Indonesia dengan mudah dan interaktif.
 
-## Getting Started
+## ✨ Fitur Utama
+* **Eksplorasi Resep:** Daftar masakan Nusantara yang lengkap.
+* **Detail Memasak:** Panduan bahan-bahan dan langkah pembuatan.
+* **User Friendly:** Tampilan antarmuka yang bersih dan nyaman digunakan.
 
-This project is a starting point for a Flutter application.
+## 📥 Cara Mencoba Aplikasi
+Kamu bisa langsung mengunduh file aplikasinya tanpa harus menjalankan kode:
+1. Pergi ke bagian [Releases](https://github.com/ReiAja/appjejakrasa/releases).
+2. Download file **app-debug.apk**.
+3. Install di perangkat Android kamu.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Dibuat Dengan
+* **Framework:** [Flutter](https://flutter.dev)
+* **Language:** [Dart](https://dart.dev)
